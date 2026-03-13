@@ -77,8 +77,30 @@ This allowed the platform to support **dynamic course content and scalable data 
 
 More screenshots available here:
 
-[View all screenshots](screenshots/)
+[View all screenshots](images/screenshots/)
+
 
 ---
 
-## Project Structure
+## Competition
+
+This project was developed as part of the **GUSTO Innovative Forum 2024**, where teams competed by building innovative mobile applications that solve real-world problems.
+
+---
+
+## Future Improvements
+
+- Video-based course content
+- Instructor dashboards
+- Student progress tracking
+- Payment system integration
+- Course rating and review system
+
+---
+
+## Author
+
+**Saw Thu Rein Htay**  
+Mobile & Web Developer  
+
+Email: thureinrichard3@gmail.com
