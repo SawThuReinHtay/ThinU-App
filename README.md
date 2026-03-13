@@ -70,8 +70,8 @@ This allowed the platform to support **dynamic course content and scalable data 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home_page.png" width="230">
-  <img src="screenshots/course_page.png" width="230">
+  <img src="screenshots/home.png" width="230">
+  <img src="screenshots/course.png" width="230">
   <img src="screenshots/course_detail.png" width="230">
 </p>
 
