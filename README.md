@@ -70,9 +70,9 @@ This allowed the platform to support **dynamic course content and scalable data 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="230">
-  <img src="screenshots/course.png" width="230">
-  <img src="screenshots/course_detail.png" width="230">
+  <img src="images/screenshots/thinuhome.png" width="230">
+  <img src="images/screenshots/thinucourse.png" width="230">
+  <img src="image/screenshots/thinuquiz.png" width="230">
 </p>
 
 More screenshots available here:
